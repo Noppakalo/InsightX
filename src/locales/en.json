@@ -1,0 +1,37 @@
+{
+    "navbar": {
+        "home_aria": "Go to home page",
+        "logo_alt": "logo-insightX",
+        "services": "Our Services",
+        "services_aria": "Go to our services",
+        "seo_services": "SEO Services",
+        "seo_services_aria": "Go to SEO Services",
+        "sem_services": "SEM Services",
+        "sem_services_aria": "Go to SEM Services",
+        "website_services": "Website Development",
+        "website_services_aria": "Go to Website Development",
+        "contact_us": "Contact Us",
+        "contact_us_aria": "Click Here to Contact Us",
+        "consultation": "Consultation",
+        "consultation_aria": "Click Here to Consultation"
+    },
+    "home_hero": {
+        "digital_aria": "Full-Service Digital Agency",
+        "digital_title": "Enterprise Transformation Solutions",
+        "digital_titlesub": "with Solutions",
+        "digital_agency": "Digital Agency",
+        "digital_full": "Full-Service",
+        "hero_contact_us": "Contact Us",
+        "hero_contact_us_aria": "Click Here to Contact Us",
+        "hero_contact_detail": "We connect your business with customers in the digital landscape through powerful, results-driven strategies. Trust InsightX as your dedicated digital partner, committed to supporting your business journey every step of the way. Turn your vision into tangible success with our comprehensive, cutting-edge solutions. Our expert team stands ready to craft customized digital strategies perfectly aligned with your unique business needs.",
+        "hero_contact_customer": "100+ Trusted Clients"
+    },
+    "home_content": {
+        "content_alt": "Atmosphere of Insight X",
+        "content_title": "Why Insight X?",
+        "content_subtitle": "Get to know us better",
+        "content_description": "Insight X Co., Ltd. is a comprehensive digital agency dedicated to delivering excellent results to clients with a team of experts in SEO, SEM, and website development. We create digital strategies tailored to the specific needs of each business to help your brand grow and stand out in the highly competitive digital market. We prioritize customer trust and satisfaction above all, committed to being a reliable partner in all aspects of digital marketing.",
+        "content_viewmore_aria": "Click Here to View more",
+        "content_viewmore": "View more"
+    }
+}
