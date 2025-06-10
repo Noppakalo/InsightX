@@ -2,7 +2,7 @@
     <section
         class="relative h-screen max-h-screen w-full md:max-h-svh md:h-svh"
     >
-        <div class="hero-media absolute inset-0">
+        <div class="absolute inset-0">
             <video
                 class="object-cover w-full h-full"
                 src="/video/insightX-background.mp4"
@@ -36,7 +36,7 @@
                     </p>
 
                     <h1
-                        class="font-bold bg-gradient-to-tl from-secondary via-primary to-blue text-transparent bg-clip-text pt-4 ml-0"
+                        class="inline-block font-bold bg-gradient-to-tl from-secondary via-primary to-blue text-transparent bg-clip-text pt-4 ml-0"
                         ref="typewriter"
                     >
                         <span class="cursor">|</span>
@@ -64,21 +64,21 @@
                         <div class="flex -space-x-2">
                             <img
                                 class="inline-block size-9.5 rounded-full ring-2 ring-secondary/80"
-                                src="/src/assets/employee/00035-4188717672.png"
+                                src="/employee/00035-4188717672.png"
                                 type="image/png"
                                 loading="lazy"
                                 alt="Avatar"
                             />
                             <img
                                 class="inline-block size-9.5 rounded-full ring-2 ring-secondary/80"
-                                src="/src/assets/employee/00029-19014729112.png"
+                                src="/employee/00029-19014729112.png"
                                 type="image/png"
                                 loading="lazy"
                                 alt="Avatar"
                             />
                             <img
                                 class="inline-block size-9.5 rounded-full ring-2 ring-secondary/80"
-                                src="/src/assets/employee/00007-3381275771.png"
+                                src="/employee/00007-3381275771.png"
                                 type="image/png"
                                 loading="lazy"
                                 alt="Avatar"
@@ -120,7 +120,7 @@ export default {
                 } else {
                     clearInterval(this.typingInterval)
                 }
-            }, 200)
+            }, 150)
         },
     },
 }

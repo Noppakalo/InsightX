@@ -18,32 +18,25 @@
                     v-on:mouseleave="isOpen = false"
                 >
                     <button
-                        class="text-base font-medium inline-flex items-center gap-1 py-2 hover:text-primary transition-colors duration-300 cursor-pointer"
+                        class="text-base font-medium inline-flex items-center gap-1 py-2 hover:text-primary transition-colors duration-300 cursor-pointer group"
                         type="button"
                         :aria-label="$t('navbar.services_aria')"
                     >
                         {{ $t('navbar.services') }}
-                        <span
-                            ><svg
-                                class="w-3 h-3"
+
+                        <span>
+                            <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                viewBox="0 0 448 512"
+                                class="w-3 h-3 fill-white hover:fill-primary"
                                 :class="{
-                                    'rotate-180 transition-transform duration-300':
+                                    'rotate-180 group-hover:fill-primary transition-transform duration-100':
                                         isOpen,
                                     'rotate-0': !isOpen,
                                 }"
-                                aria-hidden="true"
-                                xmlns="http://www.w3.org/2000/svg"
-                                width="14"
-                                height="14"
-                                fill="none"
-                                viewBox="0 0 24 24"
                             >
                                 <path
-                                    stroke="currentColor"
-                                    stroke-linecap="round"
-                                    stroke-linejoin="round"
-                                    stroke-width="2"
-                                    d="m19 9-7 7-7-7"
+                                    d="M201.4 374.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 306.7 86.6 169.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z"
                                 />
                             </svg>
                         </span>

@@ -33,5 +33,42 @@
         "content_description": "Insight X Co., Ltd. is a comprehensive digital agency dedicated to delivering excellent results to clients with a team of experts in SEO, SEM, and website development. We create digital strategies tailored to the specific needs of each business to help your brand grow and stand out in the highly competitive digital market. We prioritize customer trust and satisfaction above all, committed to being a reliable partner in all aspects of digital marketing.",
         "content_viewmore_aria": "Click Here to View more",
         "content_viewmore": "View more"
+    },
+    "home_review": {
+        "review_title": "Our customers",
+        "review_name_ae": "Mr.Ae",
+        "review_position_ae": "Online Business Owner",
+        "review_service_ae": "Web Design & SEO Services",
+        "review_detail_ae": "The website delivered is aesthetically pleasing, intuitive to navigate, and most significantly, the SEO implementation has yielded remarkable results. Our web traffic has increased by 200% within a 6-month period. The professional team offered exceptional consultation services and demonstrated swift problem-solving capabilities.",
+        "review_name_be": "Mr.Bee",
+        "review_position_be": "Marketing Manager",
+        "review_service_be": "SEM Services",
+        "review_detail_be": "The team demonstrates exceptional professionalism and a deep understanding of our business needs. Their SEM strategies have consistently driven new customer growth. We're amazed by the outstanding ROI that has exceeded all our expectations.",
+        "review_name_sea": "Mr. See",
+        "review_position_sea": "Cosmetic Brand Owner",
+        "review_service_sea": "SEM Services",
+        "review_detail_sea": "The Google Ads campaign precisely targeted our audience, resulting in a significantly higher conversion rate. It was an extremely worthwhile investment. The team is responsive and excellent at problem-solving.",
+        "review_name_dee": "Mr. Dee",
+        "review_position_dee": "Startup Executive",
+        "review_service_dee": "Web Design & SEO Services",
+        "review_detail_dee": "The website turned out beautifully, loads quickly, and is easy to use. The team understood our needs and provided excellent recommendations. Now we're ranking on the first page for our target keywords.",
+        "review_name_e": "Mr. Ee",
+        "review_position_e": "Fashion Brand Manager ",
+        "review_service_e": "SEO & SEM Services",
+        "review_detail_e": "The team is excellent. They created a spot-on online marketing strategy that helped our brand grow exponentially. Our online sales increased by 150%.",
+        "review_name_f": "Mr. F",
+        "review_position_f": "Startup Executive",
+        "review_service_f": "SEO Services",
+        "review_detail_f": "The results are incredibly clear. We used to be completely invisible on Google, but now we rank on the first page for all important keywords. We've gained many more customers as a result."
+    },
+    "home_why": {
+        "why_title": "Why partner with us",
+        "why_detail": "Your comprehensive digital marketing partner—delivering friendly, dependable solutions with an unwavering commitment to your business growth and success.",
+        "why_code_title": "Developing websites that cater to all business requirements",
+        "why_code_detail": "Crafting distinctive websites that embody your brand essence—luxurious, contemporary designs with cross-device compatibility, comprehensive features, rapid loading, robust security, and SEO excellence.",
+        "why_seo_title": "Increase revenue and achieve first-page rankings with our premium SEO solutions.",
+        "why_seo_detail": "Amplify visibility and engage ideal customers with innovative SEO tactics. Our seasoned professionals deliver sustainable top Google rankings through strategic website optimization.",
+        "why_sem_title": "Targeted online advertising with immediate impact – powered by our professional SEM services.",
+        "why_sem_detail": "We're SEM specialists dedicated to concrete results through premium advertising strategies—positioning your business first in customers' minds and catalyzing transformative sales growth."
     }
 }

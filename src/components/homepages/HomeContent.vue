@@ -5,7 +5,7 @@
         >
             <div class="w-1/2">
                 <img
-                    src="/src/assets/content/insightX-mood.webp"
+                    src="/content/insightX-mood.webp"
                     :alt="$t('home_content.content_alt')"
                     type="image/webp"
                     loading="lazy"
@@ -13,7 +13,9 @@
                 />
             </div>
             <div class="w-1/2">
-                <h2 class="text-4xl font-bold mb-2 text-primary">
+                <h2
+                    class="inline-block text-4xl font-bold mb-2 bg-gradient-to-r from-primary to-secondary text-transparent bg-clip-text"
+                >
                     {{ $t('home_content.content_title') }}
                 </h2>
                 <p class="text-2xl font-semibold mb-4">

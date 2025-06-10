@@ -1,20 +1,26 @@
 <template>
     <HomeHero />
     <HomeContent />
-    <HomeSwiper />
+    <HomeReview />
+    <HomeWhy />
+    <HomeForm />
 </template>
 
 <script>
 import HomeHero from '/src/components/homepages/HomeHero.vue'
 import HomeContent from '/src/components/homepages/HomeContent.vue'
-import HomeSwiper from '/src/components/homepages/HomeSwiper.vue'
+import HomeReview from '/src/components/homepages/HomeReview.vue'
+import HomeWhy from '/src/components/homepages/HomeWhy.vue'
+import HomeForm from '/src/components/homepages/HomeForm.vue'
 
 export default {
     name: 'Home',
     components: {
         HomeHero,
         HomeContent,
-        HomeSwiper,
+        HomeReview,
+        HomeWhy,
+        HomeForm,
     },
 }
 </script>
